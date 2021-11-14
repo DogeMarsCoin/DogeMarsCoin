@@ -1,2 +1,2 @@
 # DogeMarsCoin
- DogeMArsCoin
+ DogeMarsCoin
